@@ -6,5 +6,16 @@ public class Main {
         System.out.println(novaTV.ligarDesligar());
         novaTV.modificarVolume("+");
         novaTV.modificarCanal(56);
+
+        int i, num = 5;
+
+        for (i = 0; i < 3; i++) {
+
+            num += i;
+
+            System.out.print(i);
+
+        }
+
     }
 }
