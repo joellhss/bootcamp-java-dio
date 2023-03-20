@@ -1,4 +1,4 @@
-package edu.joel.DesafiosDeCodigo.FabricaDeCarros;
+package edu.joel.desafiosDeCodigoBasico.FabricaDeCarros;
 
 import java.util.Scanner;
 

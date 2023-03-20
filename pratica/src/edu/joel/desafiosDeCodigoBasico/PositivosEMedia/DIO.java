@@ -1,4 +1,4 @@
-package edu.joel.DesafiosDeCodigo.PositivosEMedia;
+package edu.joel.desafiosDeCodigoBasico.PositivosEMedia;
 import java.io.IOException;
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package edu.joel.DesafiosDeCodigo.somaDeHComNTermos;
+package edu.joel.desafiosDeCodigoBasico.somaDeHComNTermos;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package edu.joel.DesafiosDeCodigo.dragao;
+package edu.joel.desafiosDeCodigoBasico.dragao;
 
 import java.util.*;
 public class Solution{

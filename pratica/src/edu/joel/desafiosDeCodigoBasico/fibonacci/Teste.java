@@ -1,4 +1,4 @@
-package edu.joel.DesafiosDeCodigo.fibonacci;
+package edu.joel.desafiosDeCodigoBasico.fibonacci;
 
 import java.io.IOException;
 import java.util.Scanner;
